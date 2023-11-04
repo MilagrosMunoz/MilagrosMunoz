@@ -4,11 +4,11 @@
 * 2 years of frontend experience </br>
 * Check my site [https://creatix.web.app/porfolio]
 
-<h2>GitHub</h2> 
+<h1>GitHub</h1> 
 </hr>
 <img src="https://github-readme-stats.vercel.app/api?username=MilagrosMunoz" alt="Most used technologies" style="background:#34404E;">
 
-<h3>Most used technologies</h3> 
+<h1>Most used technologies</h1> 
 </hr>
 <table>
   <tr>
@@ -27,15 +27,11 @@
   </tr>
 </table>
 
-<h4>About Me</h4> 
+<h1>About Me</h1> 
 </hr>
 
 <p>Hello! I'm a web and mobile programmer by profession with a few years of experience in the world of technology. Despite my background, I consider myself in constant learning, as I discover new things in the digital world every day.</p>
 
-
-
-
-
-<h4>Phrase</h4> 
+<h1>Phrase</h1> 
 </hr>
 <p>The important thing is not to get what you want, it's that you still want them after you've got it.</p>
