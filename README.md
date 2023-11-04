@@ -6,6 +6,6 @@
 
 <h2>GitHub</h2> 
 </hr>
-<img src="https://github-readme-stats.vercel.app/api?username=MilagrosMunoz" alt="Most used technologies">
+<img src="https://github-readme-stats.vercel.app/api?username=MilagrosMuno" alt="Most used technologies">
 
 
