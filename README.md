@@ -1,5 +1,5 @@
 <h1 slyle="color:#392C61;"> Hi, my name is Milagros Muñoz</h1>
-- Programadora Web y Móvil </br>
+. Programadora Web y Móvil </br>
 - 2 year of development experience full stack </br>
 - Check my site [https://creatix.web.app/porfolio]
   
