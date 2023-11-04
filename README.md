@@ -27,5 +27,15 @@
   </tr>
 </table>
 
+<h4>About Me</h4> 
+</hr>
+
+<p>Hello! I'm a web and mobile programmer by profession with a few years of experience in the world of technology. Despite my background, I consider myself in constant learning, as I discover new things in the digital world every day.</p>
 
 
+
+
+
+<h4>Phrase</h4> 
+</hr>
+<p>The important thing is not to get what you want, it's that you still want them after you've got it.</p>
