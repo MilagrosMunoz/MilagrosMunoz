@@ -1,4 +1,4 @@
-<h1>My name is Milagros Muñoz</h1>
+<h1 slyle="color:#392C61;">My name is Milagros Muñoz</h1>
 - Jr Developer 
   - 2 year of development experience full stack 
   - Check my site [https://byerudito.web.app/porfolio](https://byerudito.web.app/portfolio)
