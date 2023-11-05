@@ -26,7 +26,7 @@
        </td>
        <td align="center" width="96">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/bootstrap-original.svg" width="48" height="48" alt="mysql" />
-          <br>JavaScript
+          <br>Bootstrap
        </td>
   </tr> 
 </table>
