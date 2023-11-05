@@ -1,4 +1,4 @@
-<h1 style="color:#392C61;"> Hi, my name is Milagros Muñoz</h1>
+<h1> Hi, my name is Milagros Muñoz</h1>
 </hr>
 * Web and Mobile Programmer </br>
 * 2 years of frontend experience </br>
@@ -6,7 +6,7 @@
 
 <h1>GitHub</h1> 
 </hr>
-<img src="https://github-readme-stats.vercel.app/api?username=MilagrosMunoz" alt="Most used technologies" style="background:#34404E;">
+<img src="https://github-readme-stats.vercel.app/api?username=MilagrosMunoz" alt="Most used technologies">
 
 <h1>Most used technologies</h1> 
 </hr>
