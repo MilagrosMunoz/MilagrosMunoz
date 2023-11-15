@@ -29,7 +29,7 @@
           <br>Bootstrap
        </td>
        <td align="center" width="96">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg(https://camo.githubusercontent.com/)" width="48" height="48" alt="mysql" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="mysql" />
           <br>VS Code
        </td>
   </tr> 
