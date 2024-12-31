@@ -2,7 +2,6 @@
 </hr>
 * Web and Mobile Programmer </br>
 * 2 years of frontend experience </br>
-* Check my site [https://creatix.web.app/porfolio]
 
 <h1>GitHub</h1> 
 </hr>
